@@ -15,9 +15,8 @@ A comprehensive full-stack web application designed to detect and classify brain
 
 | Prediction Result | PDF Report |
 |:---:|:---:|
-| <img src="<img width="1358" height="687" alt="image" src="https://github.com/user-attachments/assets/eac3cdef-8eb9-4fb5-bd7f-da1c89fd7a5b" />
-" alt="Prediction" width="400"/> | <img src="<img width="901" height="931" alt="image" src="https://github.com/user-attachments/assets/b88f8db6-15c4-44a1-9d1f-a15885ef17cf" />
-" alt="PDF Report" width="400"/> |
+| <img src="<img width="1358" height="687" alt="image" src="https://github.com/user-attachments/assets/eac3cdef-8eb9-4fb5-bd7f-da1c89fd7a5b" /> | <img src="<img width="901" height="931" alt="image" src="https://github.com/user-attachments/assets/b88f8db6-15c4-44a1-9d1f-a15885ef17cf" />
+ |
 ---
 
 ## 🚀 Key Features
