@@ -11,14 +11,14 @@ A comprehensive full-stack web application designed to detect and classify brain
 | Login Page | Dashboard |
 |:---:|:---:|
 | <img src="<img width="1063" height="536" alt="image" src="https://github.com/user-attachments/assets/b53eb190-9a1e-4b61-bdd3-1fe195aedcb8" />
-" alt="Login Page" width="400"/> | <img src="screenshots/dashboard.png" alt="Dashboard" width="400"/> |
+" alt="Login Page" width="400"/> | <img src="<img width="1354" height="2484" alt="image" src="https://github.com/user-attachments/assets/e582b10d-2cf2-4107-9be4-8f8818e6d2ac" />
+" alt="Dashboard" width="400"/> |
 
 | Prediction Result | PDF Report |
 |:---:|:---:|
-| <img src="screenshots/prediction.png" alt="Prediction" width="400"/> | <img src="screenshots/report.png" alt="PDF Report" width="400"/> |
-
-*(Note: Replace the image paths above with your actual screenshots)*
-
+| <img src="<img width="1358" height="687" alt="image" src="https://github.com/user-attachments/assets/eac3cdef-8eb9-4fb5-bd7f-da1c89fd7a5b" />
+" alt="Prediction" width="400"/> | <img src="<img width="901" height="931" alt="image" src="https://github.com/user-attachments/assets/b88f8db6-15c4-44a1-9d1f-a15885ef17cf" />
+" alt="PDF Report" width="400"/> |
 ---
 
 ## 🚀 Key Features
