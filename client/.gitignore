@@ -1,0 +1,22 @@
+# Ignore Virtual Environment
+.venv/
+venv/
+env/
+
+# Ignore Python Cache
+__pycache__/
+*.py[cod]
+
+# Ignore Database (Security Risk if uploaded!)
+*.db
+users.db
+
+# Ignore Frontend Dependencies (They are huge)
+client/node_modules/
+client/build/
+
+# Ignore Environment Variables (If you add .env later)
+.env
+
+# System files
+.DS_Store
