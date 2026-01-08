@@ -1,30 +1,63 @@
-🧠 AI-Powered Brain Tumor Detection & Classification System 
+# 🧠 AI-Powered Brain Tumor Detection & Classification System
 
-A comprehensive full-stack web application designed to detect and classify brain tumors from MRI scans using Deep Learning (VGG16). Features secure user authentication, real-time analysis, and professional PDF report generation.
+![Project Banner](https://img.shields.io/badge/Status-Completed-success) ![Python](https://img.shields.io/badge/Python-3.10-blue) ![React](https://img.shields.io/badge/React-18-blueviolet) ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13-orange)
 
-🚀 Key Features 
+A comprehensive full-stack web application designed to detect and classify brain tumors from MRI scans using Deep Learning (VGG16). This system provides real-time analysis, detailed tumor classification, secure user authentication, and professional PDF report generation.
 
-Deep Learning Analysis: Uses a pre-trained VGG16 model for high-accuracy binary tumor detection (99%).
-Multi-Class Classification: Provides detailed tumor typing (Glioma, Meningioma, Pituitary, etc.) and risk stratification.
-Secure Authentication: Complete Signup/Login system using SQLite and JWT (JSON Web Tokens) with password hashing.
-Professional Reporting: Generates downloadable PDF Reports including patient info, MRI images, detailed analysis, and medical recommendations.
-Interactive Dashboard: Modern React-based UI with Dark Mode, drag-and-drop uploads, and sample image library.
-Password Security: Show/Hide password toggle and secure session management.
+---
 
-🛠️ Tech Stack 
+## 📸 Project Screenshots
 
-Frontend
-React.js: Component-based UI architecture.
-Styled-Components: Modern CSS-in-JS styling.
-Axios: For API communication.
-React Router: For seamless navigation and protected routes.
-Backend
-Python (Flask): RESTful API server.
-TensorFlow/Keras: Deep Learning model inference.
-OpenCV & Pillow: Image processing.
-ReportLab: Programmatic PDF generation.
-SQLite: Lightweight database for user management.
-PyJWT: Stateless authentication.
+| Login Page | Dashboard |
+|:---:|:---:|
+| <img src="<img width="1063" height="536" alt="image" src="https://github.com/user-attachments/assets/b53eb190-9a1e-4b61-bdd3-1fe195aedcb8" />
+" alt="Login Page" width="400"/> | <img src="screenshots/dashboard.png" alt="Dashboard" width="400"/> |
+
+| Prediction Result | PDF Report |
+|:---:|:---:|
+| <img src="screenshots/prediction.png" alt="Prediction" width="400"/> | <img src="screenshots/report.png" alt="PDF Report" width="400"/> |
+
+*(Note: Replace the image paths above with your actual screenshots)*
+
+---
+
+## 🚀 Key Features
+
+*   **🧪 Deep Learning Analysis:** Utilizes a pre-trained **VGG16** Convolutional Neural Network for high-accuracy binary tumor detection (99% Accuracy).
+*   **🧬 Advanced Classification:** Provides simulated multi-class classification (Glioma, Meningioma, Pituitary, etc.) with detailed risk stratification and characteristics.
+*   **🔐 Secure Authentication:** Robust **Signup/Login** system using **SQLite** and **JWT** (JSON Web Tokens) with SHA256 password hashing.
+*   **📄 PDF Reporting:** Generates professional, downloadable **PDF Reports** containing MRI images, analysis results, and medical recommendations using `ReportLab`.
+*   **💻 Interactive Dashboard:** Modern, responsive React-based UI with Dark Mode, drag-and-drop uploads, and a sample image library.
+*   **🛡️ Data Privacy:** Secure session management and password visibility toggles.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+*   **React.js:** Component-based UI architecture.
+*   **Styled-Components:** Modern CSS-in-JS styling.
+*   **Axios:** For asynchronous API communication.
+*   **React Router:** For seamless navigation and protected routes.
+
+### **Backend**
+*   **Python (Flask):** RESTful API server.
+*   **TensorFlow/Keras:** Deep Learning model inference.
+*   **OpenCV & Pillow:** Image processing pipelines.
+*   **ReportLab:** Programmatic server-side PDF generation.
+*   **SQLite:** Lightweight, serverless database for user management.
+*   **PyJWT:** Stateless authentication mechanism.
+
+---
+
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally.
+
+### **1. Clone the Repository**
+```bash
+git clone https://github.com/RohanKarma/Brain-Tumor-Detection-System.git
+cd Brain-Tumor-Detection-System
 
 ⚙️ Installation & Setup
 Follow these steps to set up the project locally.
